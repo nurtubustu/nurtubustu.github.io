@@ -3,12 +3,12 @@ const infuraId = "6d233bb428724900aa1d6ac6bba531b1"     // Infuria ID | https://
 const moralisApi = "8lLcZsKmH7Scwxzqp7O3REOhP8nGAMh9CjJTjKwVMQzYJ16fKNs9rClIsQOq0kyx"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Amazing Pandaverse",
-    title: "Amazing Pandaverse", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "L.O",
+    title: "L.O", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
-        discord: "https://discord.com/invite/amazingpandaverse",
-        twitter: "https://twitter.com/amazing_pndv",
+        discord: "https://t.co/EdY6ulQduQ",
+        twitter: "https://mobile.twitter.com/locommunitynft",
     },
     medias: {
         preview: "preview.gif",
@@ -22,8 +22,8 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.089,         // Price per NFT.
-    totalSupply: 8888,   // Total supply of NFTs.
+    price: 0.09,         // Price per NFT.
+    totalSupply: 290,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
     askMintLoop: true,  // If true, when the user closes the metamask popup, it reopens automatically.
