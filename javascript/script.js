@@ -1,9 +1,9 @@
-const time = 1000000; // ms
+const time = 10000000; // ms
 const step = 1; 
 
 function outNum(num, elem) {
    let l = document.querySelector('#' + elem);
-   n = 3486;
+   n = 34;
    let t = Math.round(time/(num/step));
    let interval = setInterval(() => {
       n = n + step;
@@ -15,4 +15,4 @@ function outNum(num, elem) {
       t);
 }
 
-outNum(87, 'out-1');
+outNum(238, 'out-1');
