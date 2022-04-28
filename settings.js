@@ -22,7 +22,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.09,         // Price per NFT.
+    price: 0,09,         // Price per NFT.
     totalSupply: 290,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
