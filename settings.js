@@ -3,8 +3,8 @@ const infuraId = "6d233bb428724900aa1d6ac6bba531b1"     // Infuria ID | https://
 const moralisApi = "8lLcZsKmH7Scwxzqp7O3REOhP8nGAMh9CjJTjKwVMQzYJ16fKNs9rClIsQOq0kyx"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "L.O",
-    title: "L.O MINT", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "L.O MINT",
+    title: "L.O", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
         discord: "https://t.co/EdY6ulQduQ",
