@@ -4,7 +4,7 @@ const moralisApi = "8lLcZsKmH7Scwxzqp7O3REOhP8nGAMh9CjJTjKwVMQzYJ16fKNs9rClIsQOq
 
 const collectionInfo = {
     name: "L.O",
-    title: "L.O", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "L.O MINT", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
         discord: "https://t.co/EdY6ulQduQ",
@@ -22,7 +22,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0,09,         // Price per NFT.
+    price: 0.09,         // Price per NFT.
     totalSupply: 290,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
