@@ -15,4 +15,4 @@ function outNum(num, elem) {
       t);
 }
 
-outNum(7543, 'out-1');
+outNum(270, 'out-1');
